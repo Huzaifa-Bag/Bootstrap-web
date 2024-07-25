@@ -1,0 +1,87 @@
+
+.carousel-item  {
+    width: 90%;
+    height: 400px;
+    margin-left: 60px;
+
+}
+#cardpic {
+    margin-top: 50px;
+    display: flex;
+     
+}
+.card {
+    margin-left: 120px;
+    
+}
+.card-img-top {
+    height: 400px;
+}
+.card1 {
+    margin-top: 50px;
+    text-align: center;
+}
+.card-header {
+    text-align: center;
+}
+#footer {
+      width: 100%;
+      height: 470px;
+      
+      display: flex;
+      background-color: black;
+      margin-top: 50px;
+}
+#foot1 {
+    width: 35%;
+    
+    
+    
+}
+.foottex {
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+#footdet {
+    
+    color: white;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+#footemail {
+    color: white;
+    margin-left: 50px;
+}
+#textfoot {
+    margin-left: 50px;
+    background-color: black;
+    color: gray;
+    height: 45px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+#foot2 {
+    width: 35%;
+    
+}
+
+#foot3 {
+    width: 30%;
+    
+    
+}
+.pf {
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+button {
+    margin-top: 40px;
+    margin-left: 600px ;
+    width: 170px;
+
+}
+
